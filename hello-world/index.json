@@ -23,7 +23,8 @@
   "environment": {
     "uilayout": "terminal",
     "uimessage1": "\u001b[32mWelcome to this space\r\nI'm also still trying to figure out what this is for`\u001b[m\r\n",
-    "hidefinish": true
+    "hidefinish": true,
+    "hideintro": true
   },
   "backend": {
     "imageid": "centos"
