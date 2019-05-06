@@ -27,6 +27,6 @@
     "hideintro": true
   },
   "backend": {
-    "imageid": "kubernetes"
+    "imageid": "openshift-3-11"
   }
 }
