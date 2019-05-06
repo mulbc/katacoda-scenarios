@@ -27,6 +27,6 @@
     "hideintro": true
   },
   "backend": {
-    "imageid": "docker"
+    "imageid": "kubernetes"
   }
 }
