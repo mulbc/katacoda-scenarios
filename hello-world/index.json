@@ -22,11 +22,11 @@
   },
   "environment": {
     "uilayout": "terminal",
-    "uimessage1": "\u001b[32mWelcome to this space\r\nI'm also still trying to figure out what this is for\u001b[m\r\n",
+    "uimessage1": "\u001b[32mWaiting for Background tasks to finish up\u001b[m\r\n",
     "hidefinish": true,
     "hideintro": true
   },
   "backend": {
-    "imageid": "ansible"
+    "imageid": "docker"
   }
 }
