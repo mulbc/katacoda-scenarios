@@ -21,7 +21,7 @@
     }
   },
   "environment": {
-    "uilayout": "terminal",
+    "uilayout": "terminal-terminal",
     "uimessage1": "\u001b[32mWaiting for Background tasks to finish up\u001b[m\r\n",
     "hidefinish": true,
     "hideintro": true

@@ -1,9 +1,9 @@
 #!/bin/bash
 
-while [ ! -f .background ]
+while [ ! -f ~/.background ]
 do
   sleep 2
   echo -n '.'
 done
 
-cat .background
+cat ~/.background
