@@ -1,16 +1,20 @@
 {
   "title": "Hello World Scenario",
-  "description": "Your First Scenario",
+  "description": "Ceph on Ubuntu - Yay",
   "difficulty": "beginner",
-  "time": "2 minutes",
+  "time": "30 minutes",
   "details": {
-    "steps": [{
-      "title": "Step 1 - Run Command",
-      "text": "step1.md"
-    }],
+    "steps": [
+      {
+        "title": "Step 1 - Run Command",
+        "text": "step1.md"
+      }
+    ],
     "intro": {
       "text": "intro.md",
-      "credits": ""
+      "credits": "",
+      "couseData": "background.sh",
+      "code": "foreground.sh"
     },
     "finish": {
       "text": "finish.md"
@@ -18,9 +22,10 @@
   },
   "environment": {
     "uilayout": "terminal",
-    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nStart Kubernetes using `launch.sh`\u001b[m\r\n"
+    "uimessage1": "\u001b[32mWelcome to this space\nI'm also still trying to figure out what this is for`\u001b[m\r\n",
+    "hidefinish": true
   },
   "backend": {
-    "imageid": "bash"
+    "imageid": "centos"
   }
 }
