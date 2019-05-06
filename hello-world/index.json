@@ -14,7 +14,7 @@
       "text": "intro.md",
       "credits": "",
       "courseData": "background.sh",
-      "code": "foreground.sh"
+      "NOcode": "foreground.sh"
     },
     "finish": {
       "text": "finish.md"
