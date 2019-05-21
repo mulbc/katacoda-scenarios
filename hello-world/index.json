@@ -1,6 +1,6 @@
 {
   "title": "Hello World Scenario",
-  "description": "Ceph on Ubuntu - Yay",
+  "description": "Storage on Openshift 3.11",
   "difficulty": "beginner",
   "time": "30 minutes",
   "details": {
@@ -13,7 +13,7 @@
     "intro": {
       "text": "intro.md",
       "credits": "",
-      "courseData": "background.sh",
+      "NOcourseData": "background.sh",
       "NOcode": "foreground.sh"
     },
     "finish": {
@@ -21,7 +21,7 @@
     }
   },
   "environment": {
-    "uilayout": "terminal-terminal",
+    "uilayout": "terminal",
     "uimessage1": "\u001b[32mWaiting for Background tasks to finish up\u001b[m\r\n",
     "hidefinish": true,
     "hideintro": true
